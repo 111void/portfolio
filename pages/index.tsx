@@ -36,7 +36,7 @@ export default function Home() {
               priority={true}
               src={profileImage}
               placeholder="blur"
-              alt="Arga Astri Bimantara"
+              alt="Ky6taka"
               className="relative rounded-full"
             />
           </motion.div>
@@ -45,9 +45,9 @@ export default function Home() {
 
       <motion.section {...contentAnimation} className="relative order-1 w-1/3 md:order-2">
         <h3 className="-mb-5 text-base font-normal">Hi there! i&apos;m...</h3>
-        <h1 className="-ml-1 text-7xl font-bold text-primary-light">arugaz</h1>
+        <h1 className="-ml-1 text-7xl font-bold text-primary-light">ky6taka</h1>
         <h4 className="text-base font-light transition-all duration-500 hover:text-primary-light">
-          cat lover
+          like to sleep.
         </h4>
       </motion.section>
     </main>
