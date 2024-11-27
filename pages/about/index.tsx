@@ -37,7 +37,7 @@ export default function About() {
         className="relative order-1 my-10 w-3/4 md:order-2 md:my-0 md:w-1/4">
         <p className="text-md mb-4 text-justify text-base font-light">
           My name is Ky6taka, you can call me ky6taka. I was born in Purwakarta,
-          Indonesia. I am a 17yo programmer, hope you all have good day &#128513;
+          Indonesia. I am a 17yo Not programmer, hope you all have good day &#128513;
         </p>
         <ul className="list-inside list-disc">
           <li className="text-md font-light text-primary-light">
