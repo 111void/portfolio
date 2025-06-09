@@ -47,7 +47,7 @@ const Projects = withRouter(
                 <div className="flex w-full justify-between bg-primary-dark text-center font-semibold text-primary-light">
                   <a
                     href={getProject.demoUrl}
-                    target="_blank"
+                    target="https://api.iherta.my.id"
                     rel="noreferrer noopener nofollow"
                     className="w-[238px] rounded-bl-lg border-2 border-primary-dark py-1 transition-all duration-500 hover:bg-primary-light hover:text-primary-dark">
                     <span>View Demo</span>
